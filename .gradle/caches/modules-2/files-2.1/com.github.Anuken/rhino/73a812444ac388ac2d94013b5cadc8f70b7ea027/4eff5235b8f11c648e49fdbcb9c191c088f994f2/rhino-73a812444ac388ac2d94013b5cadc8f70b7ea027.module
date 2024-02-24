@@ -1,0 +1,53 @@
+{
+  "formatVersion" : "1.1",
+  "createdBy" : {
+    "gradle" : {
+      "version" : "7.1"
+    }
+  },
+  "component" : {
+    "group" : "com.github.Anuken",
+    "module" : "rhino",
+    "version" : "73a812444ac388ac2d94013b5cadc8f70b7ea027",
+    "attributes" : {
+      "org.gradle.status" : "release"
+    }
+  },
+  "variants" : [ {
+    "name" : "apiElements",
+    "attributes" : {
+      "org.gradle.category" : "library",
+      "org.gradle.dependency.bundling" : "external",
+      "org.gradle.jvm.version" : "8",
+      "org.gradle.libraryelements" : "jar",
+      "org.gradle.usage" : "java-api"
+    },
+    "files" : [ {
+      "name" : "rhino-73a812444ac388ac2d94013b5cadc8f70b7ea027.jar",
+      "url" : "rhino-73a812444ac388ac2d94013b5cadc8f70b7ea027.jar",
+      "size" : 930498,
+      "sha512" : "be33ffd121767efc1be989f79304d7cf257914b6202bc956174d80c900c81997a98411d4b7b50bc688bcadb2f34b62b4c87cfc6217377de14092b7e8a4461620",
+      "sha256" : "836faccdbb60b07bda96ee45e24ca054337cf64934cefcd54b0dc439c00bd752",
+      "sha1" : "a4d5adce051abf063ad1a6aab0259b5bca1c1817",
+      "md5" : "80e83b97a4476e8961ed764d36eb9fd1"
+    } ]
+  }, {
+    "name" : "runtimeElements",
+    "attributes" : {
+      "org.gradle.category" : "library",
+      "org.gradle.dependency.bundling" : "external",
+      "org.gradle.jvm.version" : "8",
+      "org.gradle.libraryelements" : "jar",
+      "org.gradle.usage" : "java-runtime"
+    },
+    "files" : [ {
+      "name" : "rhino-73a812444ac388ac2d94013b5cadc8f70b7ea027.jar",
+      "url" : "rhino-73a812444ac388ac2d94013b5cadc8f70b7ea027.jar",
+      "size" : 930498,
+      "sha512" : "be33ffd121767efc1be989f79304d7cf257914b6202bc956174d80c900c81997a98411d4b7b50bc688bcadb2f34b62b4c87cfc6217377de14092b7e8a4461620",
+      "sha256" : "836faccdbb60b07bda96ee45e24ca054337cf64934cefcd54b0dc439c00bd752",
+      "sha1" : "a4d5adce051abf063ad1a6aab0259b5bca1c1817",
+      "md5" : "80e83b97a4476e8961ed764d36eb9fd1"
+    } ]
+  } ]
+}
